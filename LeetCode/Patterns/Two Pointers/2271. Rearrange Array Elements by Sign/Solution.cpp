@@ -1,34 +1,28 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-        int n = nums.size();
+        int n=nums.size();
+        vector<int> positives;
+        vector<int> negatives;  
 
-        // Pre-allocate exact sizes (no push_back)
-        vector<int> pos(n / 2);
-        vector<int> neg(n / 2);
-
-        int p = 0, q = 0;
-
-        // Fill positives and negatives with direct assignment
-        for (int x : nums) {
-            if (x > 0)
-                pos[p++] = x;
-            else
-                neg[q++] = x;
+        for(int i=0;i<n;i++){
+            if(nums[i]>0){
+                positives.push_back(nums[i]);
+            }else{
+                negatives.push_back(nums[i]);
+            }
         }
-
-        vector<int> ans(n);
-        p = 0; 
-        q = 0;
-
-        // Fill answer: even → positive, odd → negative
-        for (int i = 0; i < n; i++) {
-            if (i % 2 == 0)
-                ans[i] = pos[p++];
-            else
-                ans[i] = neg[q++];
-        }
-
-        return ans;
+        vector<int>ans(n);
+        int pos=0;
+        int neg=0;
+        for(int i=0;i<n;i++){
+            if(i%2==0){
+                ans[i]=positives[pos];
+                pos++;
+            }else{
+                ans[i]=negatives[neg];
+                neg++;
+            }
+        }return ans;
     }
 };
