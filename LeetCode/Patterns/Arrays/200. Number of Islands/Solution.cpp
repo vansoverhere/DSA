@@ -1,6 +1,6 @@
 class Solution {
 private:
-     void bfs(int i, int j, vector<vector<int>>&vis, vector<vector<char>>grid,int r ,int c){
+     void bfs(int i, int j, vector<vector<int>>&vis, vector<vector<char>>&grid,int r ,int c){
         queue<pair<int,int>>q;
         vis[i][j]=1;
         q.push({i,j});
