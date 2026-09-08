@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 6 / 150 (4.0%)
+- **Completed:** 7 / 150 (4.7%)
 
 ---
 
@@ -171,7 +171,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 ### 📂 Bit Manipulation
 - [ ] Single Number
 - [ ] Number of 1 Bits
-- [ ] Counting Bits
+- [x] [Counting Bits](./C++/Easy/338. Counting Bits/)
 - [ ] Reverse Bits
 - [ ] Missing Number
 - [ ] Sum of Two Integers
