@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 10 / 150 (6.7%)
+- **Completed:** 11 / 150 (7.3%)
 
 ---
 
@@ -47,7 +47,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 ### 📂 Binary Search
 - [ ] Binary Search
 - [ ] Search a 2D Matrix
-- [ ] Koko Eating Bananas
+- [x] [Koko Eating Bananas](./C++/Medium/907. Koko Eating Bananas/)
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
 - [ ] Time Based Key-Value Store
