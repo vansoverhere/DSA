@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 23 / 150 (15.3%)
+- **Completed:** 24 / 150 (16.0%)
 
 ---
 
@@ -169,7 +169,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Minimum Interval to Include Each Query
 
 ### 📂 Bit Manipulation
-- [ ] Single Number
+- [x] [Single Number](./C++/Easy/136. Single Number/)
 - [x] [Number of 1 Bits](./C++/Easy/191. Number of 1 Bits/)
 - [x] [Counting Bits](./C++/Easy/338. Counting Bits/)
 - [x] [Reverse Bits](./C++/Easy/190. Reverse Bits/)
