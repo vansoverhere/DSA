@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 24 / 150 (16.0%)
+- **Completed:** 25 / 150 (16.7%)
 
 ---
 
@@ -173,7 +173,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [x] [Number of 1 Bits](./C++/Easy/191. Number of 1 Bits/)
 - [x] [Counting Bits](./C++/Easy/338. Counting Bits/)
 - [x] [Reverse Bits](./C++/Easy/190. Reverse Bits/)
-- [ ] Missing Number
+- [x] [Missing Number](./C++/Easy/268. Missing Number/)
 - [ ] Sum of Two Integers
 - [ ] Reverse Integer
 
