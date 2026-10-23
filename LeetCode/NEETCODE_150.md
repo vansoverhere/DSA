@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 26 / 150 (17.3%)
+- **Completed:** 27 / 150 (18.0%)
 
 ---
 
@@ -114,7 +114,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Max Area of Island
 - [ ] Pacific Atlantic Water Flow
 - [ ] Surrounded Regions
-- [ ] Rotting Oranges
+- [x] [Rotting Oranges](./C++/Medium/1036. Rotting Oranges/)
 - [ ] Walls and Gates
 - [ ] Course Schedule
 - [ ] Course Schedule II
