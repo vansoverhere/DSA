@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 27 / 150 (18.0%)
+- **Completed:** 28 / 150 (18.7%)
 
 ---
 
@@ -162,7 +162,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 
 ### 📂 Intervals
 - [x] [Insert Interval](./C++/Medium/57. Insert Interval/)
-- [ ] Merge Intervals
+- [x] [Merge Intervals](./C++/Medium/56. Merge Intervals/)
 - [x] [Non-overlapping Intervals](./C++/Medium/435. Non-overlapping Intervals/)
 - [ ] Meeting Rooms
 - [ ] Meeting Rooms II

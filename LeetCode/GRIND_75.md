@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 18 / 75 (24.0%)
+- **Completed:** 19 / 75 (25.3%)
 
 ---
 
@@ -53,7 +53,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 
 ### 📂 Interval
 - [x] [Insert Interval](./C++/Medium/57. Insert Interval/)
-- [ ] Merge Intervals
+- [x] [Merge Intervals](./C++/Medium/56. Merge Intervals/)
 - [x] [Non-overlapping Intervals](./C++/Medium/435. Non-overlapping Intervals/)
 - [ ] Meeting Rooms
 - [ ] Meeting Rooms II
