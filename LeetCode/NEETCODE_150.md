@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 28 / 150 (18.7%)
+- **Completed:** 29 / 150 (19.3%)
 
 ---
 
@@ -28,7 +28,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [x] [Trapping Rain Water](./C++/Hard/42. Trapping Rain Water/)
 
 ### 📂 Sliding Window
-- [ ] Best Time to Buy and Sell Stock
+- [x] [Best Time to Buy and Sell Stock](./C++/Easy/121. Best Time to Buy and Sell Stock/)
 - [x] [Longest Substring Without Repeating Characters](./C++/Medium/3. Longest Substring Without Repeating Characters/)
 - [x] [Longest Repeating Character Replacement](./C++/Medium/424. Longest Repeating Character Replacement/)
 - [ ] Permutation in String
