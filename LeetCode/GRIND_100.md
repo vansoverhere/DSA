@@ -3,14 +3,14 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 19 / 100 (19.0%)
+- **Completed:** 20 / 100 (20.0%)
 
 ---
 
 ## Checklist
 
 ### 📂 Array & Two Pointers
-- [ ] Two Sum
+- [x] [Two Sum](./C++/Easy/1. Two Sum/)
 - [x] [3Sum](./C++/Medium/15. 3Sum/)
 - [ ] Container With Most Water
 - [x] [Move Zeroes](./C++/Easy/283. Move Zeroes/)

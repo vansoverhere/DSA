@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 24 / 238 (10.1%)
+- **Completed:** 25 / 238 (10.5%)
 
 ---
 
@@ -153,7 +153,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Maximum Subarray
 - [ ] Subarray Sums Divisible by K
 - [ ] Subsets
-- [ ] Two Sum
+- [x] [Two Sum](./C++/Easy/1. Two Sum/)
 - [x] [3Sum](./C++/Medium/15. 3Sum/)
 - [ ] 4Sum
 - [x] [Subarray Sum Equals K](./C++/Medium/560. Subarray Sum Equals K/)
