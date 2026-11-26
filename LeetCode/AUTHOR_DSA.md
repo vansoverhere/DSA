@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 23 / 238 (9.7%)
+- **Completed:** 24 / 238 (10.1%)
 
 ---
 
@@ -208,7 +208,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Binary Addition
 - [ ] Excel Sheet Column Number
 - [ ] Excel Sheet Column Title
-- [ ] Roman to Integer
+- [x] [Roman to Integer](./C++/Easy/13. Roman to Integer/)
 - [ ] Integer to Words
 
 ### 📂 PART  2: SUBSTRINGS, PATTERNS & INTENTIO
